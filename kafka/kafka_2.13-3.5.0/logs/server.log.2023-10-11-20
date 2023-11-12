@@ -1,3 +1,0 @@
-[2023-10-11 20:36:08,079] INFO [GroupCoordinator 0]: Member consumer-stock-1-434a0291-5991-43ac-a44a-f5b310d42eeb in group stock has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
-[2023-10-11 20:36:08,203] INFO [GroupCoordinator 0]: Preparing to rebalance group stock in state PreparingRebalance with old generation 1 (__consumer_offsets-18) (reason: removing member consumer-stock-1-434a0291-5991-43ac-a44a-f5b310d42eeb on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
-[2023-10-11 20:36:08,209] INFO [GroupCoordinator 0]: Group stock with generation 2 is now empty (__consumer_offsets-18) (kafka.coordinator.group.GroupCoordinator)
