@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-12T16:23:47.953+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "path": "/api/orders/create"
+}

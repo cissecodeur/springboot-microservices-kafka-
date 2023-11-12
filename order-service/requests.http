@@ -1,0 +1,12 @@
+### Send POST request with json body
+POST http://localhost:8087/api/orders/create
+Content-Type: application/json
+
+{
+  "orderName":"Mangue"  ,
+  "qty": 2 ,
+  "price": 10
+}
+
+
+###

@@ -1,0 +1,252 @@
+POST http://localhost:8087/api/orders/create
+Content-Type: application/json
+Content-Length: 56
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "orderName":"Mangue"  ,
+  "qty": 2 ,
+  "price": 10
+}
+
+<> 2023-11-12T172347.404.json
+
+###
+
+POST http://localhost:8087/api/orders/create
+Content-Type: application/json
+Content-Length: 56
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "orderName":"Mangue"  ,
+  "qty": 2 ,
+  "price": 10
+}
+
+<> 2023-11-12T171105.404.json
+
+###
+
+POST http://localhost:9092/products/save
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T230813.404.html
+
+###
+
+POST http://localhost:9092/products/save
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T230806.404.html
+
+###
+
+POST http://localhost:9092/products/save
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T230800.404.html
+
+###
+
+POST http://localhost:9092/products/save
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T230208.404.html
+
+###
+
+POST http://localhost:9092/products/add
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T224957.404.html
+
+###
+
+POST http://localhost:9092/products/add
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T224953.404.html
+
+###
+
+POST http://localhost:9092/products/add
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T220908.404.json
+
+###
+
+POST http://localhost:9092/api/products/add
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
+
+<> 2023-11-10T220630.404.json
+
+###
+
+POST http://localhost:9092/api/products/add
+Content-Type: application/json
+{:
+  "productName" : "Mandarine" ,
+  "price" : 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T215612.400.html
+
+###
+
+POST http://localhost:9092/api/products/add
+Content-Type: application/json
+{:
+  "productName" : "Mandarine" ,
+  "price" : 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T195126.400.html
+
+###
+
+POST http://localhost:9092/api/products/add
+Content-Type: application/json
+{:
+  "productName" : "Mandarine" ,
+  "price" : 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T195122.400.html
+
+###
+
+POST http://localhost:9092/api/products/add
+Content-Type: application/json
+{:
+  "productName" : "Mandarine" ,
+  "price" : 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T193100.400.html
+
+###
+
+POST http://localhost:9092/api/products/add
+Content-Type: application/json
+{:
+  "productName" : "Mandarine" ,
+  "price" : 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T192831.400.html
+
+###
+
+POST http://localhost:9092/api/products/add
+Content-Type: application/json
+{:
+  "productName" : "Mandarine" ,
+  "price" : 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T192705.400.html
+
+###
+

@@ -1,0 +1,2 @@
+[2023-08-17 21:44:42,338] INFO [GroupCoordinator 0]: Preparing to rebalance group new-topic-cqrs-event-GID in state PreparingRebalance with old generation 7 (__consumer_offsets-34) (reason: Removing member consumer-new-topic-cqrs-event-GID-1-82fc9d59-1d2a-443d-aebe-0d7282c600bb on LeaveGroup; client reason: consumer poll timeout has expired.) (kafka.coordinator.group.GroupCoordinator)
+[2023-08-17 21:44:42,711] INFO [GroupCoordinator 0]: Group new-topic-cqrs-event-GID with generation 8 is now empty (__consumer_offsets-34) (kafka.coordinator.group.GroupCoordinator)
