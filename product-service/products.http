@@ -1,0 +1,8 @@
+#### Save product in database
+POST http://localhost:9092/products/save
+Content-Type: application/json
+
+{
+  "productName": "Mangue",
+  "price": 100
+}
